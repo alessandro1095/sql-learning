@@ -1,4 +1,4 @@
 -- Seleciona os clientes pelo primeiro nome da tabela Person
 
-SELECT firstName.sql
+SELECT firstName
 FROM person.Person;
