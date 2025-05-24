@@ -1,4 +1,4 @@
--- Seleciona os clientes pelo primeiro nome da tabela Person
+-- Seleciona os clientes pelo nome e sobrenome da tabela Person.Person
 
-SELECT firstName
+SELECT firstName, LastName
 FROM person.Person;
